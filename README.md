@@ -9,7 +9,7 @@ Step 2: Make sure that function name should be “def test_*():” and the line 
 should have assert keyword at the beginning. 
 
 Step 3: Write some test cases for to be tested and save it as “test_add.py”. 
-
+ 
 Step 4: Open command prompt and change the directory to where pytest and program is 
 saved and type “pytest  test_add.py” and run it. 
 
